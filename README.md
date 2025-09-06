@@ -5,11 +5,11 @@ It's my first rear and I'm currently learning
 - Computer Architecture
 - Data Structures 
 ## I'm interested in : 
-- Learning new concepts and aplying them to solve problems
-- Challenging my knowledge in stuff I think I know
-- Learning new languages (chineese / japaneese/ portuguese)
-- 
-> “El código es arte... pero con punteros inflinge terror XD.”
+- Learning new concepts and aplying them
+- Challenging my knowledge and pushing beyond what I think I know.
+- Learning new languages (chineese / japanese/ portuguese)
+> いざ、倒れ逝くその時まで  
+>> *Onward, until the moment I fall.*  
 <!--
 **benjaortizq/benjaortizq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
