@@ -17,6 +17,8 @@ It's my first year and I'm currently learning:
 ---
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
+![ASM] (https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
+
 ---
 
 > いざ、倒れ逝くその時まで  
