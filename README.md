@@ -1,4 +1,5 @@
-# Hi there 👋 My name is Benjamin , Nice to meet you !
+# Hi there 👋 My name is Conoutlet , Nice to meet you !
+You can me Benjamin / Conoutlet , whichever you like 
 I'm a Computer Science / Software Engineering student at Instituto Tecnologico de Costa Rica (TEC) .
 It's my first rear and I'm currently learning 
 - Object oriented Programming
