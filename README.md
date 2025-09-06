@@ -15,7 +15,7 @@ It's my first year and I'm currently learning:
 - Challenging my knowledge and pushing beyond what I think I know
 - Making music 
 - Learning new languages (Chinese / Japanese / Portuguese)
-![Reimu bailando](https://tenor.com/view/touhou-reimu-fumo-club-penguin-dance-gif-22023426)
+![](https://tenor.com/bEzsI.gif)
 ---
 ![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
