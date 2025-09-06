@@ -11,7 +11,8 @@ It's my first year and I'm currently learning:
 
 ## 🌱 I'm interested in
 - Learning new concepts and applying them  
-- Challenging my knowledge and pushing beyond what I think I know  
+- Challenging my knowledge and pushing beyond what I think I know
+- Making music 
 - Learning new languages (Chinese / Japanese / Portuguese)  
 
 ---
