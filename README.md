@@ -1,15 +1,23 @@
-# Hi there 👋 My name is Benjamin , Nice to meet you !
-I'm a Computer Science / Software Engineering student at Instituto Tecnologico de Costa Rica (TEC) .
-It's my first rear and I'm currently learning 
-- Object oriented Programming
-- Computer Architecture
-- Data Structures 
-## I'm interested in : 
-- Learning new concepts and aplying them
-- Challenging my knowledge and pushing beyond what I think I know.
-- Learning new languages (chineese / japanese/ portuguese)
+# Hi there 👋 My name is Benjamin, nice to meet you!
+
+I'm a Computer Science / Software Engineering student at Instituto Tecnológico de Costa Rica (TEC).  
+It's my first year and I'm currently learning:
+
+- Object-Oriented Programming  
+- Computer Architecture  
+- Data Structures  
+
+---
+
+## 🌱 I'm interested in
+- Learning new concepts and applying them  
+- Challenging my knowledge and pushing beyond what I think I know  
+- Learning new languages (Chinese / Japanese / Portuguese)  
+
+---
+
 > いざ、倒れ逝くその時まで  
->*Onward, until the moment I fall.*  
+> *Onward, until the moment I fall.*
 <!--
 **benjaortizq/benjaortizq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
