@@ -1,10 +1,10 @@
-## Hi there 👋 My name is Benjamin , Nice to meet you !
+# Hi there 👋 My name is Benjamin , Nice to meet you !
 I'm a Computer Science / Software Engineering student at Instituto Tecnologico de Costa Rica (TEC) 
 It's my first rear and I'm currently learning 
 - Object oriented Programming
 - Computer Architecture
 - Data Structures 
-#I'm interested in 
+## I'm interested in : 
 - Learning new concepts and aplying them to solve problems
 - Challenging my knowledge in stuff I think I know
 - Learning new languages (chineese / japaneese/ portuguese) 
