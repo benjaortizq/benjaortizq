@@ -9,7 +9,7 @@ It's my first rear and I'm currently learning
 - Challenging my knowledge and pushing beyond what I think I know.
 - Learning new languages (chineese / japanese/ portuguese)
 > いざ、倒れ逝くその時まで  
->> *Onward, until the moment I fall.*  
+>*Onward, until the moment I fall.*  
 <!--
 **benjaortizq/benjaortizq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
