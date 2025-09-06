@@ -24,4 +24,4 @@ It's my first year and I'm currently learning:
 <!--[x86](https://img.shields.io/badge/x86-%2300BFFF?style=flat&logo=assembly)-->
 ---
 > 「 いざ、倒れ逝くその時まで 」  
-> *Onward, until the moment I fall.*
+> *"Onward, until the moment I fall."*
