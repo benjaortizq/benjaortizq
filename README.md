@@ -15,6 +15,10 @@ It's my first year and I'm currently learning:
 - Learning new languages (Chinese / Japanese / Portuguese)  
 
 ---
+## Programming Languages 
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
+---
 
 > いざ、倒れ逝くその時まで  
 > *Onward, until the moment I fall.*
