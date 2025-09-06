@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Benjamin, nice to meet you!
+# Hello there 👋 My name is Benjamin, nice to meet you!
 
 I'm a Computer Science / Software Engineering student at Instituto Tecnológico de Costa Rica (TEC).  
 It's my first year and I'm currently learning:
