@@ -14,7 +14,7 @@ I'm currently learning:
 - Learning new concepts and applying them  
 - Challenging my knowledge and pushing beyond what I think I know
 - Making music 
-- Learning new languages (Chinese / Japanese / Portuguese)
+- Learning new languages (Chinese / Japanese )
 
 ![reimu](https://media.tenor.com/LHAI-n_-ptoAAAAi/touhou-reimu.gif)
 ---
