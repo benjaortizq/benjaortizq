@@ -1,12 +1,12 @@
 # Hello there👋 My name is Benjamin, nice to meet you!
 
 I'm a Second-year Computer Science / Software Engineering student at Instituto Tecnológico de Costa Rica (TEC).  
-I'm currently learning:
+##I'm currently learning:
 
-DataBases 1 
-Algorythm Analysis
-Proyect Requirements
-Linear Algebra and Calculus II  
+- DataBases 1 
+- Algorithm Analysis
+- Project Requirements
+- Linear Algebra and Calculus II  
 
 ## 🌱 I'm interested in
 - Learning new concepts and applying them  
